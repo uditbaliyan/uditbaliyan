@@ -1,17 +1,5 @@
-<!--
-**uditbaliyan/uditbaliyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here's an enhanced version of your README.md:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ---
 
 <h1 align="center">Hi there, I'm Udit 👋</h1>
@@ -21,6 +9,57 @@ Here are some ideas to get you started:
   <a href="https://unknown-user-cod.github.io/uditbaliyan.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-unknown--user--cod.github.io-blue?style=for-the-badge" alt="Portfolio"></a>
   <a href="mailto:baliyanudit03@gmail.com"><img src="https://img.shields.io/badge/Email-baliyanudit03@gmail.com-red?style=for-the-badge" alt="Email"></a>
 </p>
+
+---
+
+<h3 align="left">🔭 I’m currently working on:</h3>
+<ul>
+  <li>🎬 Movie Recommender System Project</li>
+  <li>📈 Various Data Science projects (Price Prediction, Diabetes Prediction, etc.)</li>
+  <li>💻 Building and refining my personal portfolio</li>
+</ul>
+
+<h3 align="left">🌱 I’m currently learning:</h3>
+<ul>
+  <li>💡 Java Programming</li>
+  <li>📊 Data Visualization with Seaborn</li>
+  <li>📦 Web Development with Django</li>
+</ul>
+
+<h3 align="left">👯 I’m looking to collaborate on:</h3>
+<ul>
+  <li>🤖 AI and Machine Learning Projects</li>
+  <li>🌐 Full-Stack Web Development Projects</li>
+</ul>
+
+<h3 align="left">🤔 I’m looking for help with:</h3>
+<ul>
+  <li>🔍 Improving my skills in Data Structures and Algorithms</li>
+  <li>🚀 Building scalable and efficient web applications</li>
+</ul>
+
+<h3 align="left">💬 Ask me about:</h3>
+<ul>
+  <li>💻 Python and Data Science</li>
+  <li>🌐 Web Development</li>
+</ul>
+
+<h3 align="left">📫 How to reach me:</h3>
+<p align="left">
+  <a href="mailto:baliyanudit03@gmail.com">📧 baliyanudit03@gmail.com</a>
+</p>
+
+<h3 align="left">😄 Pronouns:</h3>
+<ul>
+  <li>He/Him</li>
+</ul>
+
+<h3 align="left">⚡ Fun fact:</h3>
+<ul>
+  <li>I'm always eager to learn and take on new challenges!</li>
+</ul>
+
+---
 
 <h3 align="left">Let's Connect!</h3>
 <p align="left">
@@ -72,7 +111,5 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=unknown-user-cod&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=unknown-user-cod&show_icons=true&locale=en" alt="GitHub Stats"
 
----
