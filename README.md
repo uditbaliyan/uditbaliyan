@@ -1,4 +1,3 @@
-Here's an enhanced version of your README.md:
 
 ---
 
@@ -21,8 +20,8 @@ Here's an enhanced version of your README.md:
 
 <h3 align="left">🌱 I’m currently learning:</h3>
 <ul>
-  <li>💡 Java Programming</li>
-  <li>📊 Data Visualization with Seaborn</li>
+  <li>💡Python Programming</li>
+  <li>📊 Data Science</li>
   <li>📦 Web Development with Django</li>
 </ul>
 
@@ -49,10 +48,6 @@ Here's an enhanced version of your README.md:
   <a href="mailto:baliyanudit03@gmail.com">📧 baliyanudit03@gmail.com</a>
 </p>
 
-<h3 align="left">😄 Pronouns:</h3>
-<ul>
-  <li>He/Him</li>
-</ul>
 
 <h3 align="left">⚡ Fun fact:</h3>
 <ul>
@@ -107,9 +102,9 @@ Here's an enhanced version of your README.md:
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=unknown-user-cod&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uditbaliyan&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=unknown-user-cod&show_icons=true&locale=en" alt="GitHub Stats"
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=uditbaliyan&show_icons=true&locale=en" alt="GitHub Stats"
 
