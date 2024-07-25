@@ -99,10 +99,6 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/> </a>
 </p>
 
-<h3 align="center">My GitHub Stats</h3>
-<p align="center">
-  <img src="YOUR_IMAGE_URL_HERE" alt="GitHub Stats" width="600" height="400">
-</p>
 
 ---
 
@@ -111,4 +107,10 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=uditbaliyan&show_icons=true&locale=en" alt="uditbaliyan"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uditbaliyan&" alt="uditbaliyan"/>
+  
+
 </p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uditbaliyan&show_icons=true&theme=radical)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=uditbaliyan&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uditbaliyan&layout=compact&theme=radical)
+
