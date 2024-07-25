@@ -1,6 +1,3 @@
-
----
-
 <h1 align="center">Hi there, I'm Udit 👋</h1>
 <h3 align="center">A Passionate Developer from India 🚀</h3>
 
@@ -49,7 +46,6 @@
 <p align="left">
   <a href="mailto:baliyanudit03@gmail.com">📧 baliyanudit03@gmail.com</a>
 </p>
-
 
 <h3 align="left">⚡ Fun fact:</h3>
 <ul>
@@ -103,10 +99,16 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/> </a>
 </p>
 
+<h3 align="center">My GitHub Stats</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uditbaliyan&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="YOUR_IMAGE_URL_HERE" alt="GitHub Stats" width="600" height="400">
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=uditbaliyan&show_icons=true&locale=en" alt="GitHub Stats"
+---
 
+<h3 align="left">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=uditbaliyan&show_icons=true&locale=en" alt="uditbaliyan"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uditbaliyan&" alt="uditbaliyan"/>
+</p>
