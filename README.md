@@ -115,8 +115,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=uditbaliyan&show_icons=true&theme=radical" alt="uditbaliyan"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uditbaliyan&theme=radical" alt="uditbaliyan"/>
   </p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/username=uditbaliyan&layout=compact&theme=radical" alt="uditbaliyan"/>
-  
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uditbaliyan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="uditbaliyan"/>
 
 
 
