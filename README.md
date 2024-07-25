@@ -2,8 +2,8 @@
 <h3 align="center">A Passionate Developer from India 🚀</h3>
 
 <p align="center">
-  <a href="https://uditbaliyan.github.io/uditbaliyan.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-uditbaliyan.github.io-blue?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://unknown-user-cod.github.io/uditbaliyan.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-unknown--user--cod.github.io-blue?style=for-the-badge" alt="Portfolio"></a>
   <a href="mailto:baliyanudit03@gmail.com">
     <img src="https://img.shields.io/badge/Email-baliyanudit03@gmail.com-red?style=for-the-badge" alt="Email"></a>
 </p>
